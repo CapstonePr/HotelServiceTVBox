@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hohohahakoko
 ASDAFSF
+=======
+hohohahakeke
+>>>>>>> parent of 8f75eba... koko
